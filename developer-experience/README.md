@@ -1,4 +1,3 @@
-
 # Developer Experience
 
 Production-focused developer experience engineering section designed around internal developer platforms, engineering enablement systems, self-service workflows, operational developer tooling, platform usability, workflow standardization, and scalable engineering productivity systems.
@@ -81,121 +80,78 @@ This section focuses on understanding:
 
 ## Repository Scope
 
-This section primarily owns:
-
-- developer experience fundamentals
+- developer experience principles
 - internal developer platforms
-- engineering enablement systems
-- self-service workflows
-- developer productivity engineering
-- operational developer tooling
-- workflow standardization systems
+- self-service platforms
+- golden paths
+- developer portals
+- platform adoption
+- engineering productivity systems
 - platform usability engineering
-- developer operational workflows
-- production developer platform reliability
-- operational developer diagnostics
+- cognitive load reduction
+- developer enablement workflows
+- platform standardization
 - scalable engineering enablement
 
 ---
 
 ## What This Section Covers
 
-### Developer Experience Fundamentals
-
-Core developer experience concepts, engineering enablement principles, workflow optimization foundations, platform usability engineering, and operational developer workflows.
+### Developer Experience Principles
 
 Examples:
-
-- developer experience principles
-- platform usability
-- workflow standardization
-- operational productivity
-- engineering enablement
 - cognitive load reduction
-- platform adoption workflows
-
----
+- workflow standardization
+- developer productivity
+- feedback loops
+- engineering enablement
 
 ### Internal Developer Platforms
 
-Self-service engineering systems, internal platform architecture, infrastructure abstraction workflows, platform operational reliability, and engineering enablement systems.
-
 Examples:
-
-- internal developer portals
 - self-service infrastructure
-- platform abstractions
-- environment provisioning
-- operational enablement workflows
-- platform governance
-
----
-
-### Developer Tooling and Workflows
-
-Operational developer tooling, workflow automation systems, local development consistency, environment standardization, and developer operational efficiency engineering.
-
-Examples:
-
-- local development workflows
-- environment standardization
-- developer automation
-- workflow orchestration
-- engineering tooling systems
-- operational workflow optimization
-
----
-
-### Self-Service Infrastructure Workflows
-
-Developer infrastructure access systems, operational provisioning workflows, deployment enablement systems, infrastructure abstraction engineering, and platform operational usability.
-
-Examples:
-
-- self-service deployment systems
-- environment provisioning
-- infrastructure templates
-- deployment enablement
-- operational platform workflows
-- infrastructure abstractions
-
----
-
-### Platform Observability and Reliability
-
-Developer platform observability, operational workflow visibility, platform reliability engineering, developer diagnostics systems, and operational platform debugging.
-
-Examples:
-
-- platform monitoring
-- developer workflow visibility
-- operational diagnostics
-- developer telemetry
-- workflow bottleneck analysis
-- platform reliability workflows
-
----
-
-### Platform Governance and Standardization
-
-Engineering workflow governance, operational standards, reusable engineering patterns, platform operational maturity, and organizational engineering consistency.
-
-Examples:
-
+- platform automation
+- developer portals
+- platform workflows
 - engineering standards
-- reusable templates
-- platform governance
-- operational standardization
-- workflow consistency
-- engineering maturity systems
+
+### Self-Service Platforms
+
+Examples:
+- environment provisioning
+- deployment enablement
+- resource requests
+- infrastructure abstraction
+- platform automation
+
+### Golden Paths
+
+Examples:
+- application templates
+- deployment standards
+- platform best practices
+- workflow standardization
+- engineering guardrails
+
+### Developer Portals
+
+Examples:
+- service catalogs
+- documentation hubs
+- ownership visibility
+- self-service workflows
+- platform discovery
+
+### Platform Adoption
+
+Examples:
+- adoption metrics
+- developer onboarding
+- platform enablement
+- training programs
+- feedback loops
 
 ---
-
-## What This Section Does NOT Cover Deeply
-
-The ecosystem intentionally avoids large-scale topic duplication across repositories.
-
-This section references other repositories contextually instead of reteaching their primary domains.
 
 ### CI/CD and Release Engineering
 
@@ -241,31 +197,29 @@ This section discusses those topics only from platform usability and engineering
 
 ```text
 developer-experience/
-├── developer-platforms/
-├── enablement/
-├── fundamentals/
-├── governance/
-├── self-service/
-└── workflows/
+├── developer-portals.md
+├── devex-principles.md
+├── golden-paths.md
+├── internal-developer-platform.md
+├── platform-adoption.md
+└── self-service-platforms.md
 ```
 
 ---
 
 ## Engineering Focus Areas
 
-This section focuses heavily on:
-
-- engineering enablement systems
-- operational developer productivity
-- self-service platform engineering
-- workflow standardization
-- platform usability engineering
-- developer operational reliability
-- engineering workflow scalability
-- operational diagnostics
-- developer workflow observability
+- developer experience engineering
+- internal developer platforms
+- self-service engineering
+- platform adoption
+- developer productivity
 - cognitive load reduction
-- operational debugging mindset
+- workflow standardization
+- engineering enablement
+- platform usability
+- developer onboarding
+- platform automation
 - real-world platform engineering
 
 ---
@@ -338,17 +292,17 @@ The focus is practical platform engineering usefulness rather than theoretical c
 
 This section is intended to evolve into a long-term developer experience engineering knowledge platform covering:
 
-- developer enablement systems
+- developer experience principles
 - internal developer platforms
+- self-service platforms
+- golden paths
+- developer portals
+- platform adoption
+- developer productivity systems
+- engineering enablement
 - workflow standardization
-- self-service infrastructure workflows
 - platform usability engineering
-- operational developer reliability
-- engineering governance systems
-- production workflow troubleshooting
-- scalable engineering productivity systems
-- organizational platform maturity
-- operational platform engineering
+- scalable engineering organizations
 
 The section should remain:
 

@@ -236,6 +236,12 @@ platform-engineering-playbook/
 │   ├── platform-observability/
 │   └── workload-management/
 ├── developer-experience/
+│   ├── developer-portals.md
+│   ├── devex-principles.md
+│   ├── golden-paths.md
+│   ├── internal-developer-platform.md
+│   ├── platform-adoption.md
+│   └── self-service-platforms.md
 ├── platform-operations/
 ├── release-engineering/
 ├── security/

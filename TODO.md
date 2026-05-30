@@ -6,21 +6,8 @@
 
 - CI/CD Foundation
 - Container Platform Foundation
+- Developer Experience Foundation
 
----
-
-## In Progress
-
-### Developer Experience Foundation
-
-- DevEx Principles
-- Internal Developer Platform
-- Self-Service Platforms
-- Golden Paths
-- Platform Adoption
-- Developer Portals
-
----
 
 ## Upcoming Foundations
 
@@ -66,10 +53,10 @@
 - v1.0.0 Repository Foundation
 - v1.1.0 CI/CD Foundation
 - v1.2.0 Container Platform Foundation
+- v1.3.0 Developer Experience Foundation
 
 ### Planned
 
-- v1.3.0 Developer Experience Foundation
 - v1.4.0 Release Engineering Foundation
 - v1.5.0 Platform Tooling Foundation
 - v1.6.0 Platform Security Foundation
@@ -79,8 +66,8 @@
 
 ## High Priority
 
-1. Complete Developer Experience Foundation
-2. Update Root README
-3. Update CHANGELOG
-4. Release v1.2.0 Container Platform Foundation
-5. Begin Developer Experience Foundation
+1. Update Root README
+2. Update CHANGELOG
+3. Release v1.3.0 Developer Experience Foundation
+4. Begin Release Engineering Foundation
+5. Complete Release Engineering Foundation
