@@ -1,4 +1,3 @@
-
 # Container Platform
 
 Production-focused container platform engineering section designed around internal platform abstractions, self-service container infrastructure, Kubernetes platform enablement, workload operationalization, platform orchestration workflows, and scalable developer infrastructure systems.
@@ -83,36 +82,76 @@ This section focuses on understanding:
 
 This section primarily owns:
 
-- container platform fundamentals
-- developer-facing orchestration systems
-- self-service deployment workflows
-- platform abstraction engineering
-- workload operational enablement
-- infrastructure usability systems
-- platform operational workflows
-- workload governance systems
-- production platform reliability
-- operational platform diagnostics
-- scalable orchestration enablement
-- engineering workflow simplification
+- platform architecture
+- Kubernetes platforms
+- multi-tenancy
+- cluster lifecycle management
+- workload management
+- platform observability
+- platform automation
+- platform reliability
+- operational governance
+- self-service platform capabilities
+- scalable container platforms
+- engineering enablement systems
 
 ---
 
 ## What This Section Covers
 
-### Container Platform Fundamentals
-
-Core platform engineering concepts, orchestration abstraction principles, self-service infrastructure workflows, workload operationalization systems, and developer enablement foundations.
+### Platform Architecture
 
 Examples:
+- infrastructure layers
+- platform services
+- developer self-service
+- governance controls
+- platform standardization
 
-- platform engineering principles
-- orchestration abstractions
-- workload operationalization
-- infrastructure enablement
-- developer platform systems
-- operational workflow simplification
-- platform usability
+### Kubernetes Platforms
+
+Examples:
+- platform services
+- self-service infrastructure
+- security controls
+- platform observability
+- operational guardrails
+
+### Multi-Tenancy
+
+Examples:
+- tenant isolation
+- access control
+- resource governance
+- network segmentation
+- compliance controls
+
+### Cluster Lifecycle
+
+Examples:
+- cluster provisioning
+- cluster configuration
+- platform operations
+- cluster upgrades
+- cluster retirement
+
+### Workload Management
+
+Examples:
+- workload scheduling
+- resource management
+- scaling strategies
+- deployment operations
+- platform governance
+
+### Platform Observability
+
+Examples:
+- metrics
+- logs
+- traces
+- alerting
+- operational visibility
 
 ---
 
@@ -242,12 +281,12 @@ This section discusses those topics only from workload operationalization and pl
 
 ```text
 container-platform/
-├── abstractions/
-├── developer-workflows/
-├── fundamentals/
-├── governance/
-├── observability/
-└── self-service/
+├── cluster-lifecycle/
+├── kubernetes-platforms/
+├── multi-tenancy/
+├── platform-architecture/
+├── platform-observability/
+└── workload-management/
 ```
 
 ---
@@ -256,17 +295,17 @@ container-platform/
 
 This section focuses heavily on:
 
-- developer-facing orchestration systems
-- workload operational enablement
-- platform usability engineering
-- self-service infrastructure workflows
-- orchestration abstraction systems
-- operational workflow reliability
-- developer productivity engineering
+- platform architecture
+- Kubernetes platform engineering
+- multi-tenancy
+- cluster lifecycle management
+- workload management
 - platform observability
-- workload governance systems
-- engineering workflow simplification
-- operational debugging mindset
+- platform reliability
+- self-service infrastructure
+- operational governance
+- developer enablement
+- platform automation
 - real-world platform engineering
 
 ---
@@ -339,17 +378,17 @@ The focus is practical platform engineering usefulness rather than theoretical c
 
 This section is intended to evolve into a long-term container platform engineering knowledge platform covering:
 
-- orchestration abstraction systems
-- self-service workload platforms
-- developer-facing infrastructure workflows
-- workload operational enablement
-- platform usability engineering
-- operational platform reliability
-- workload governance systems
-- production platform troubleshooting
-- scalable orchestration enablement
-- engineering workflow simplification
-- operational platform engineering
+- platform architecture
+- Kubernetes platforms
+- multi-tenancy
+- cluster lifecycle management
+- workload management
+- platform observability
+- platform reliability
+- self-service platform capabilities
+- operational governance
+- platform automation
+- scalable container platforms
 
 The section should remain:
 

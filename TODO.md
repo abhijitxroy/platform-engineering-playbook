@@ -5,6 +5,7 @@
 ### Completed Areas
 
 - CI/CD Foundation
+- Container Platform Foundation
 
 ---
 
@@ -47,14 +48,6 @@
 - Policy As Code
 - Compliance
 
-### Container Platform Foundation
-
-- Platform Architecture
-- Kubernetes Platforms
-- Multi-Tenancy
-- Cluster Lifecycle
-- Workload Management
-- Platform Observability
 
 ### Platform Operations Foundation
 
@@ -71,15 +64,15 @@
 ### Completed
 
 - v1.0.0 Repository Foundation
-- v1.1.0 Developer Experience Foundation
-- v1.2.0 CI/CD Foundation
+- v1.1.0 CI/CD Foundation
+- v1.2.0 Container Platform Foundation
 
 ### Planned
 
-- v1.3.0 Release Engineering Foundation
-- v1.4.0 Platform Tooling Foundation
-- v1.5.0 Platform Security Foundation
-- v1.6.0 Container Platform Foundation
+- v1.3.0 Developer Experience Foundation
+- v1.4.0 Release Engineering Foundation
+- v1.5.0 Platform Tooling Foundation
+- v1.6.0 Platform Security Foundation
 - v1.7.0 Platform Operations Foundation
 
 ---
@@ -89,5 +82,5 @@
 1. Complete Developer Experience Foundation
 2. Update Root README
 3. Update CHANGELOG
-4. Create Initial Release Structure
-5. Begin Release Engineering Foundation
+4. Release v1.2.0 Container Platform Foundation
+5. Begin Developer Experience Foundation

@@ -223,7 +223,18 @@ Distributed systems architecture, HLD/LLD, scalability theory, and architecture 
 ```text
 platform-engineering-playbook/
 ├── ci-cd/
+│   ├── artifact-management/
+│   ├── deployment-strategies/
+│   ├── gitops/
+│   ├── pipelines/
+│   └── quality-gates/
 ├── container-platform/
+│   ├── cluster-lifecycle/
+│   ├── kubernetes-platforms/
+│   ├── multi-tenancy/
+│   ├── platform-architecture/
+│   ├── platform-observability/
+│   └── workload-management/
 ├── developer-experience/
 ├── platform-operations/
 ├── release-engineering/
@@ -314,6 +325,11 @@ This repository is intended to evolve into a long-term platform engineering know
 - release engineering
 - platform security
 - container platforms
+- Kubernetes platform engineering
+- platform architecture
+- platform observability
+- multi-tenancy and governance
+- workload lifecycle management
 - platform tooling ecosystems
 - platform operations
 - self-service engineering
